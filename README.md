@@ -1,2 +1,2 @@
-# primeiro-repositorio
-esse é meu primeiro repositório no github 
+# olá meu nome é Gabriel
+esse é meu primeiro repositório criado em aula de informática
